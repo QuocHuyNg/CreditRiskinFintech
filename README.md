@@ -39,7 +39,7 @@
 
 ---
 
-## 🛠️ Công nghệ sử dụng
+## Công nghệ sử dụng
 
 ### Backend (Python/Flask)
 - **Flask**: Máy chủ RESTful API xử lý logic xác thực và dự báo.
@@ -55,7 +55,7 @@
 
 ---
 
-## ⚙️ Hướng dẫn Khởi chạy ứng dụng (Windows)
+## Hướng dẫn Khởi chạy ứng dụng (Windows)
 
 Dự án cung cấp sẵn hai tệp tập lệnh `.bat` giúp quản lý server dễ dàng:
 
